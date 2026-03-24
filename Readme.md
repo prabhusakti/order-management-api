@@ -41,9 +41,3 @@ POST /orders
 
 ## Pricing Logic
 - 10% discount if total > 1000
-
-## CV Points
-- Developed REST API using Flask
-- Implemented JWT Authentication
-- Used SQLAlchemy ORM
-- Designed pricing logic
