@@ -118,7 +118,7 @@ def create_tables():
 # =========================
 # Run
 # =========================
-if __name__ == '__main__':
-    with app.app_context():
-        create_tables()
-    app.run(debug=True)
+
+with app.app_context():
+    create_tables()
+
